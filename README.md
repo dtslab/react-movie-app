@@ -1,4 +1,4 @@
-# Landing Personal Portfolio
+# React Movie App
 
 ![Screenshot](/public/reactMovieApp.png?raw=true)
 
